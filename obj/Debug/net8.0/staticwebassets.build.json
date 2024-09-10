@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "du21EioRI3AJwJU1QYrbZiopvOx0+euqLthcESSQXXY=",
+  "Source": "MyShop",
+  "BasePath": "_content/MyShop",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyShop/wwwroot",
+      "Source": "MyShop",
+      "ContentRoot": "/Users/Inamaria_1/Documents/Oslomet/ITPE3200/Week3/MyShop/wwwroot/",
+      "BasePath": "_content/MyShop",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/Inamaria_1/Documents/Oslomet/ITPE3200/Week3/MyShop/obj/Debug/net8.0/scopedcss/bundle/MyShop.styles.css",
+      "SourceId": "MyShop",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/Inamaria_1/Documents/Oslomet/ITPE3200/Week3/MyShop/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/MyShop",
+      "RelativePath": "MyShop.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/Inamaria_1/Documents/Oslomet/ITPE3200/Week3/MyShop/obj/Debug/net8.0/scopedcss/bundle/MyShop.styles.css"
+    },
+    {
+      "Identity": "/Users/Inamaria_1/Documents/Oslomet/ITPE3200/Week3/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css",
+      "SourceId": "MyShop",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/Inamaria_1/Documents/Oslomet/ITPE3200/Week3/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/MyShop",
+      "RelativePath": "MyShop.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/Inamaria_1/Documents/Oslomet/ITPE3200/Week3/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css"
+    }
+  ]
+}
