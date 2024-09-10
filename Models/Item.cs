@@ -10,3 +10,4 @@ namespace MyShop.Models
 		public string? ImageUrl { get; set; }
 	}
 }
+// Dette er en melding
